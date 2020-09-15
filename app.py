@@ -1,6 +1,7 @@
 import cv2
 import time
 import threading
+from cv2 import cv2
 from PIL import Image, ImageTk 
 from tkinter import Label, Button, Tk, PhotoImage
         
