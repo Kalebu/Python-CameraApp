@@ -60,6 +60,7 @@ class CameraApp:
                 CaptureFrame = picture.copy()
                 picture = ImageTk.PhotoImage(picture)
                 self.ImageLabel.configure(image = picture)
+                self.ImageLabel.photo = picture
                 self.PictureTaken = False
                 time.sleep(0.001)
             else:
