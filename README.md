@@ -1,23 +1,24 @@
 
-# Python Camera Application 
-This repository of source code of simple Desktop Camera Application
-Made using Python.
+Python Camera Application 
+----------------------------
+
+This repository of source code of simple desktop camera application made in python using **Tkinter** and **Opencv** as a funny project. 
 
 ## Getting started 🔧
+In order to explore this desktop-app you might have to firstly *clone* or *download* the project repository in your machine just as shown below;
 
 
 ```bash
 # Clone this repository
 $ git clone https://github.com/Kalebu/Python-CameraApp
 
-# Go into the repository
-$ cd Python-CameraApp
 ```
 
-## Instructions 
+Dependencies 
+-------------- 
 
 To successful run the Camera Application you will need to have the following 
-Dependecies installed on your Machine
+Dependecies installed just as shown below;
 
 For Linux :
 ```bash
@@ -35,7 +36,15 @@ $ pip install opencv-python
 
 Once everything is cleary installed , you're now ready to run the application  
 
-# Running Our App 
+Running Our App 
+-----------------
+
+
+Go into the repository
+
+```bash
+$ cd Python-CameraApp
+```
 
 Now Let's use terminal run our Simple Camera App as shown below  
 
@@ -44,9 +53,18 @@ $ python app.py
 
 ```
 
-### Congrats your Python Camera is up Running
-
-Incase you face any difficulties why trying to run 
-the Application Let me know 
+A camera App
+--------------
+Now afer running a code, a camera app should be live and running in a way just as shown below;
 
 ![](mycamera.png?raw=true)
+
+Give it a star 
+--------------
+Did you find this information useful, then give it a star 
+
+
+Credits
+-----------
+All the credits to [kalebu](github.com/kalebu) and [Alfaxad](https://github.com/Alfaxad)
+
